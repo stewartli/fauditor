@@ -1,0 +1,37 @@
+---
+output: github_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## FAuditor
+
+
+A tool aims to improve audit efficiency and effectiveness. 
+
+
+
+### How to use
+
+
+```{bash}
+
+
+```
+
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fauditor)
+
+
+
+
+
+
+
+
+
